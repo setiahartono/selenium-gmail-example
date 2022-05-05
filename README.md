@@ -1,7 +1,7 @@
 # Selenium Gmail Login - Example (Python)
 
 ## Description
-This repo gives an example on how to run an automated browser using Selenium and Python that uses an existing Gmail session by utilizing Google Chrome debug mode. By doing so, it's possible to automate many feature that is locked behind authentication without and bypass the 2FA that might prevent the automated script to run properly. The development of this simple script was done in a Windows machine.
+This repo gives an example on how to run an automated browser using Selenium and Python that uses an existing Gmail session by utilizing Google Chrome debug mode. By doing so, it's possible to automate many feature that is locked behind authentication and bypass the 2FA that might prevent the automated script to run properly. The development of this simple script was done in a Windows machine.
 
 A simple automated example will be following a very simple flow
 
@@ -52,3 +52,8 @@ Run `python script.py`
 
 ### 10. Watch if the automation is working
 <br>
+
+# About Author
+[Bayu Setiahartono](https://github.com/setiahartono)
+
+[LinkedIn Profile](https://linkedin.com/in/setiahartono)
