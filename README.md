@@ -32,9 +32,11 @@ In Windows, go to start menu and search "Edit the system environment variables",
 ### 6. Try running Chrome in debug mode
 Open PowerShell and try running
 
-`start chrome -remote-debugging-port=9014 --user-data-dir="<PATH_TO_ANY_DIRECTORY>"`
+`chrome -remote-debugging-port=9014 --user-data-dir="<PATH_TO_ANY_DIRECTORY>"`
 
 If you did the step 5 correctly, a new Chrome Window should be opened. Keep in mind that this browser use port 9014 in the example. The PATH_TO_ANY_DIRECTORY should be a new, empty folder since there will be a lots of content generated to that path.
+
+Or you can just try running a .bat file included in this repo (Need to modify the path as above).
 <br>
 
 ### 7. Login into Gmail account in the Chrome debug mode
